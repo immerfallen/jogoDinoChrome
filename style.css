@@ -1,7 +1,17 @@
 .dino {
     width: 60px;
     height: 60px;
-    background: green;
     position: absolute;
-    bottom: 0;    
+    bottom: 0;  
+    background-image: url('/imgs//dino.png');  
+}
+
+
+.cactus {
+    width: 60px;
+    height: 60px;
+    background-color: red; 
+    position: absolute;    
+    bottom: 0px;
+    background-image: url('/imgs//cactus.png'); 
 }
